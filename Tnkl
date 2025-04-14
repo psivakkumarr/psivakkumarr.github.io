@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>வணக்கம்!</title>
+</head>
+<body>
+  <h1>இது என் முதல் இணையதளம்</h1>
+  
+  <!-- Button with Link -->
+  <a href="https://www.google.com" target="_blank">
+    <button>Google-க்கு செல்ல</button>
+  </a>
+
+</body>
+</html>
